@@ -4,7 +4,7 @@
     "url": "https://deducedata.solutions",
     "icon": "https://icons.duckduckgo.com/ip3/deducedata.solutions.ico",
     "slug": "deduce",
-    "status": "up",
+    "status": "down",
     "uptime": "97.09%",
     "uptimeDay": "96.71%",
     "uptimeWeek": "93.49%",
@@ -16,6 +16,7 @@
     "timeMonth": 10603,
     "timeYear": 9338,
     "dailyMinutesDown": {
+      "2023-04-01": 0,
       "2023-03-31": 47,
       "2023-03-30": 193,
       "2023-03-29": 123,
