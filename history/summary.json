@@ -6,15 +6,15 @@
     "slug": "deduce",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "98.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "97.85%",
-    "time": 8927,
-    "timeDay": 1363,
-    "timeWeek": 3733,
-    "timeMonth": 4839,
-    "timeYear": 8230,
+    "uptimeYear": "97.86%",
+    "time": 8923,
+    "timeDay": 2083,
+    "timeWeek": 3373,
+    "timeMonth": 4569,
+    "timeYear": 8138,
     "dailyMinutesDown": {
       "2023-11-22": 20,
       "2023-05-16": 16,
@@ -71,8 +71,7 @@
       "2022-11-28": 178,
       "2022-11-27": 11,
       "2022-11-26": 77,
-      "2022-11-25": 65,
-      "2022-11-24": 213
+      "2022-11-25": 65
     }
   }
 ]
