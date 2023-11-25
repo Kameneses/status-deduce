@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/deducedata.solutions.ico",
     "slug": "deduce",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "97.86%",
-    "time": 8923,
-    "timeDay": 2083,
-    "timeWeek": 3373,
-    "timeMonth": 4569,
-    "timeYear": 8138,
+    "uptimeYear": "97.90%",
+    "time": 8917,
+    "timeDay": 2233,
+    "timeWeek": 2941,
+    "timeMonth": 4473,
+    "timeYear": 8038,
     "dailyMinutesDown": {
       "2023-11-22": 20,
       "2023-05-16": 16,
@@ -70,8 +70,7 @@
       "2022-11-29": 83,
       "2022-11-28": 178,
       "2022-11-27": 11,
-      "2022-11-26": 77,
-      "2022-11-25": 65
+      "2022-11-26": 77
     }
   }
 ]
