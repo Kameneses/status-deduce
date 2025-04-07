@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/deducedata.solutions.ico",
     "slug": "deduce",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.40%",
     "uptimeMonth": "95.72%",
-    "uptimeYear": "98.58%",
-    "time": 1351,
-    "timeDay": 1275,
-    "timeWeek": 1255,
-    "timeMonth": 1209,
+    "uptimeYear": "98.85%",
+    "time": 1342,
+    "timeDay": 1116,
+    "timeWeek": 1253,
+    "timeMonth": 1212,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-04-03": 597,
@@ -29,8 +29,7 @@
       "2024-04-11": 233,
       "2024-04-10": 571,
       "2024-04-09": 338,
-      "2024-04-08": 705,
-      "2024-04-07": 1440
+      "2024-04-08": 705
     }
   }
 ]
