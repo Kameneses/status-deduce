@@ -1,7 +1,7 @@
 url: https://deducedata.solutions
-status: up
-code: 200
-responseTime: 879
-lastUpdated: 2025-06-05T23:08:35.844Z
+status: down
+code: 502
+responseTime: 756
+lastUpdated: 2025-06-06T11:10:48.587Z
 startTime: 2022-03-06T13:56:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
